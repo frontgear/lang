@@ -1,0 +1,15 @@
+{
+  "name": "@frontgear/lang-dev",
+  "private": true,
+  "version": "0.0.1",
+  "description": "",
+  "author": "crzyj",
+  "license": "MIT",
+  "repository": "frontgear/lang",
+  "scripts": {
+    "build": "node ./scripts/build.js"
+  },
+  "devDependencies": {
+    "@frontgear/dev-tools": "frontgear/dev-tools"
+  }
+}
